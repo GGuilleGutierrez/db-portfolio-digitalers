@@ -95,19 +95,19 @@
   },
   "certificates": [
     {
-      "src": "../src/assets/cert_mobile.png",
+      "src": "../src/assets/cert_desk.png",
       "alt": "certificate1",
       "title": "Front-end Developer1",
       "date": "Feb 2022 - Feb 2023"
     },
     {
-      "src": "../src/assets/cert_mobile.png",
+      "src": "../src/assets/cert_desk.png",
       "alt": "certificate2",
       "title": "Front-end Developer2",
       "date": "Mar 2022 - Mar 2023"
     },
     {
-      "src": "../src/assets/cert_mobile.png",
+      "src": "../src/assets/cert_desk.png",
       "alt": "certificate3",
       "title": "Front-end Developer3",
       "date": "Abr 2022 - Abr 2023"
