@@ -1,21 +1,21 @@
 {
   "experience": [
     {
-      "src": "../../../assets/adidas.svg",
+      "src": "../../assets/adidas.svg",
       "alt": "Adidas1",
       "date": "Feb 2022 - Actualidad",
       "job": "Front-end Developer1",
       "description": "11111 ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
     },
     {
-      "src": "../../../assets/adidas.svg",
+      "src": "../../assets/adidas.svg",
       "alt": "Adidas2",
       "date": "Mar 2022 - Actualidad",
       "job": "Front-end Developer2",
       "description": "22222 ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
     },
     {
-      "src": "../../../assets/adidas.svg",
+      "src": "../../assets/adidas.svg",
       "alt": "Adidas3",
       "date": "Abr 2022 - Actualidad",
       "job": "Front-end Developer3",
