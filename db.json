@@ -29,21 +29,21 @@
         "alt": "develop1",
         "tags": "#HTML #CSS #responsive",
         "title": "Responsivo1",
-        "description": "In this project, I work with HTML and CSS to create a RESPONSIVE page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id."
+        "description": "In this project, I work with HTML and CSS to create a RESPONSIVE page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
         "src": "../src/assets/develop.png",
         "alt": "develop2",
         "tags": "#HTML #CSS #responsive",
         "title": "Responsivo2",
-        "description": "In this project, I work with HTML and CSS to create a RESPONSIVE page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id."
+        "description": "In this project, I work with HTML and CSS to create a RESPONSIVE page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
         "src": "../src/assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #responsive",
         "title": "Responsivo3",
-        "description": "In this project, I work with HTML and CSS to create a RESPONSIVE page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id."
+        "description": "In this project, I work with HTML and CSS to create a RESPONSIVE page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       }
     ],
     "javascript": [
@@ -52,21 +52,21 @@
         "alt": "develop1",
         "tags": "#HTML #CSS #JavaScript",
         "title": "JavaScript1",
-        "description": "In this project, I work with HTML, CSS, and JAVASCRIPT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id."
+        "description": "In this project, I work with HTML, CSS, and JAVASCRIPT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
         "src": "../src/assets/develop.png",
         "alt": "develop2",
         "tags": "#HTML #CSS #JavaScript",
         "title": "JavaScript2",
-        "description": "In this project, I work with HTML, CSS, and JAVASCRIPT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id."
+        "description": "In this project, I work with HTML, CSS, and JAVASCRIPT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
         "src": "../src/assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #JavaScript",
         "title": "JavaScript3",
-        "description": "In this project, I work with HTML, CSS, and JAVASCRIPT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id."
+        "description": "In this project, I work with HTML, CSS, and JAVASCRIPT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       }
     ],
     "react": [
@@ -75,21 +75,21 @@
         "alt": "develop1",
         "tags": "#HTML #CSS #React",
         "title": "React1",
-        "description": "In this project, I work with REACT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id."
+        "description": "In this project, I work with REACT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
         "src": "../src/assets/develop.png",
         "alt": "develop2",
         "tags": "#HTML #CSS #React",
         "title": "React2",
-        "description": "In this project, I work with REACT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id."
+        "description": "In this project, I work with REACT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
         "src": "../src/assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #React",
         "title": "React3",
-        "description": "In this project, I work with REACT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id."
+        "description": "In this project, I work with REACT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       }
     ]
   },
