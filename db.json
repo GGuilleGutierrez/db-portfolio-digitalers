@@ -1,6 +1,7 @@
 {
   "experience": [
     {
+      "id": 13,
       "src": "../src/assets/adidas.png",
       "alt": "Adidas1",
       "date": "Feb 2022 - Actualidad",
@@ -8,6 +9,7 @@
       "description": "11111 ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
     },
     {
+      "id": 14,
       "src": "../src/assets/adidas.png",
       "alt": "Adidas2",
       "date": "Mar 2022 - Actualidad",
@@ -15,6 +17,7 @@
       "description": "22222 ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
     },
     {
+      "id": 15,
       "src": "../src/assets/adidas.png",
       "alt": "Adidas3",
       "date": "Abr 2022 - Actualidad",
@@ -25,6 +28,7 @@
   "projects": {
     "responsive": [
       {
+        "id": 10,
         "src": "../src/assets/develop.png",
         "alt": "develop1",
         "tags": "#HTML #CSS #responsive",
@@ -32,6 +36,7 @@
         "description": "In this project, I work with HTML and CSS to create a RESPONSIVE page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
+        "id": 11,
         "src": "../src/assets/develop.png",
         "alt": "develop2",
         "tags": "#HTML #CSS #responsive",
@@ -39,6 +44,7 @@
         "description": "In this project, I work with HTML and CSS to create a RESPONSIVE page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
+        "id": 12,
         "src": "../src/assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #responsive",
@@ -48,6 +54,7 @@
     ],
     "javascript": [
       {
+        "id": 7,
         "src": "../src/assets/develop.png",
         "alt": "develop1",
         "tags": "#HTML #CSS #JavaScript",
@@ -55,6 +62,7 @@
         "description": "In this project, I work with HTML, CSS, and JAVASCRIPT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
+        "id": 8,
         "src": "../src/assets/develop.png",
         "alt": "develop2",
         "tags": "#HTML #CSS #JavaScript",
@@ -62,6 +70,7 @@
         "description": "In this project, I work with HTML, CSS, and JAVASCRIPT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
+        "id": 9,
         "src": "../src/assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #JavaScript",
@@ -71,6 +80,7 @@
     ],
     "react": [
       {
+        "id": 4,
         "src": "../src/assets/develop.png",
         "alt": "develop1",
         "tags": "#HTML #CSS #React",
@@ -78,6 +88,7 @@
         "description": "In this project, I work with REACT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
+        "id": 5,
         "src": "../src/assets/develop.png",
         "alt": "develop2",
         "tags": "#HTML #CSS #React",
@@ -85,6 +96,7 @@
         "description": "In this project, I work with REACT to create a web page. The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
       },
       {
+        "id": 6,
         "src": "../src/assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #React",
@@ -94,19 +106,22 @@
     ]
   },
   "certificates": [
-    {
+    {  
+      "id": 1,
       "src": "../src/assets/cert_desk.png",
       "alt": "certificate1",
       "title": "Front-end Developer1",
       "date": "Feb 2022 - Feb 2023"
     },
     {
+      "id": 2,
       "src": "../src/assets/cert_desk.png",
       "alt": "certificate2",
       "title": "Front-end Developer2",
       "date": "Mar 2022 - Mar 2023"
     },
     {
+      "id": 3,
       "src": "../src/assets/cert_desk.png",
       "alt": "certificate3",
       "title": "Front-end Developer3",
