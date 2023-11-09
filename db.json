@@ -2,7 +2,7 @@
   "experience": [
     {
       "id": 13,
-      "src": "../src/assets/adidas.png",
+      "src": "../../assets/adidas.png",
       "alt": "Adidas1",
       "date": "Feb 2022 - Actualidad",
       "job": "Front-end Developer1",
@@ -10,7 +10,7 @@
     },
     {
       "id": 14,
-      "src": "../src/assets/adidas.png",
+      "src": "../../assets/adidas.png",
       "alt": "Adidas2",
       "date": "Mar 2022 - Actualidad",
       "job": "Front-end Developer2",
@@ -18,7 +18,7 @@
     },
     {
       "id": 15,
-      "src": "../src/assets/adidas.png",
+      "src": "../../assets/adidas.png",
       "alt": "Adidas3",
       "date": "Abr 2022 - Actualidad",
       "job": "Front-end Developer3",
@@ -29,7 +29,7 @@
     "responsive": [
       {
         "id": 10,
-        "src": "../src/assets/develop.png",
+        "src": "../../assets/develop.png",
         "alt": "develop1",
         "tags": "#HTML #CSS #responsive",
         "title": "Responsivo1",
@@ -37,7 +37,7 @@
       },
       {
         "id": 11,
-        "src": "../src/assets/develop.png",
+        "src": "../../assets/develop.png",
         "alt": "develop2",
         "tags": "#HTML #CSS #responsive",
         "title": "Responsivo2",
@@ -45,7 +45,7 @@
       },
       {
         "id": 12,
-        "src": "../src/assets/develop.png",
+        "src": "../../assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #responsive",
         "title": "Responsivo3",
@@ -55,7 +55,7 @@
     "javascript": [
       {
         "id": 7,
-        "src": "../src/assets/develop.png",
+        "src": "../../assets/develop.png",
         "alt": "develop1",
         "tags": "#HTML #CSS #JavaScript",
         "title": "JavaScript1",
@@ -63,7 +63,7 @@
       },
       {
         "id": 8,
-        "src": "../src/assets/develop.png",
+        "src": "../../assets/develop.png",
         "alt": "develop2",
         "tags": "#HTML #CSS #JavaScript",
         "title": "JavaScript2",
@@ -71,7 +71,7 @@
       },
       {
         "id": 9,
-        "src": "../src/assets/develop.png",
+        "src": "../../assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #JavaScript",
         "title": "JavaScript3",
@@ -81,7 +81,7 @@
     "react": [
       {
         "id": 4,
-        "src": "../src/assets/develop.png",
+        "src": "../../assets/develop.png",
         "alt": "develop1",
         "tags": "#HTML #CSS #React",
         "title": "React1",
@@ -89,7 +89,7 @@
       },
       {
         "id": 5,
-        "src": "../src/assets/develop.png",
+        "src": "../../assets/develop.png",
         "alt": "develop2",
         "tags": "#HTML #CSS #React",
         "title": "React2",
@@ -97,7 +97,7 @@
       },
       {
         "id": 6,
-        "src": "../src/assets/develop.png",
+        "src": ../../assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #React",
         "title": "React3",
@@ -108,21 +108,21 @@
   "certificates": [
     {  
       "id": 1,
-      "src": "../src/assets/cert_desk.png",
+      "src": "../../assets/cert_desk.png",
       "alt": "certificate1",
       "title": "Front-end Developer1",
       "date": "Feb 2022 - Feb 2023"
     },
     {
       "id": 2,
-      "src": "../src/assets/cert_desk.png",
+      "src": "../../assets/cert_desk.png",
       "alt": "certificate2",
       "title": "Front-end Developer2",
       "date": "Mar 2022 - Mar 2023"
     },
     {
       "id": 3,
-      "src": "../src/assets/cert_desk.png",
+      "src": "../../assets/cert_desk.png",
       "alt": "certificate3",
       "title": "Front-end Developer3",
       "date": "Abr 2022 - Abr 2023"
