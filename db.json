@@ -97,7 +97,7 @@
       },
       {
         "id": 6,
-        "src": ../../assets/develop.png",
+        "src": "../../assets/develop.png",
         "alt": "develop3",
         "tags": "#HTML #CSS #React",
         "title": "React3",
